@@ -29,6 +29,6 @@ App::uses('Model', 'Model');
  *
  * @package       app.Model
  */
-class Test extends AppModel {
+class TestPost extends AppModel {
 
 }
