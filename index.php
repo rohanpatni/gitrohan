@@ -1,6 +1,8 @@
 
-scsdvsvsv<?php
-/**
+scsdvsvsv
+
+fsfsvsvb
+<?php/**
  * Requests collector.
  *
  *  This file collects requests if:
